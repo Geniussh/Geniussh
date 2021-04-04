@@ -16,4 +16,3 @@
 - 🌱 I’m working as an intern at Intel on large open source projects
 - 🔭 Feel free to check out my Github activities at Intel [here](https://github.com/s-kelvin)
 - 💞️ I’m going to the School of Computer Science at Carnegie Mellon as a graduate
-- 😄 Let's get in touch: [Linkedin](https://www.linkedin.com/in/kelvinsh/)
