@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi, I’m Kelvin
-- 👀 Machine Learning, Robotics, Self-Driving
-- 🔭 Github contribution at Intel [here](https://github.com/s-kelvin)
-- 💞️ I’m going to the Robotics Institute at Carnegie Mellon as a graduate
+### 👋👋👋
+- 🤖 Machine Learning, Robotics, Self-Driving
+- 💼 Github contribution at Intel [here](https://github.com/s-kelvin)
+- 🎓 I’m going to the Robotics Institute at Carnegie Mellon as a graduate
