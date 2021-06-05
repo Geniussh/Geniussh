@@ -14,4 +14,4 @@
 ### 👋👋👋
 - 🤖 Machine Learning, Robotics, Self-Driving
 - 💼 Github contribution at Intel [here](https://github.com/s-kelvin)
-- 🎓 I’m going to the Robotics Institute at Carnegie Mellon as a graduate
+- 🎓 Incoming graduate at the Robotics Institute at Carnegie Mellon
